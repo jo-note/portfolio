@@ -1,6 +1,6 @@
 ---
-title: "Contact"
-permalink: /contact/
+title: "About"
+permalink: /about/
 layout: page
 ---
 
