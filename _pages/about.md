@@ -1,10 +1,11 @@
 ---
 title : About Me
 permalink: /about/
-layout_gallery: 
+layouts_gallery:
     -url: /assets/images/test_image.jpg
     -image_path: /assets/images/test_image.jpg
     -alt: "Author's picture"
+toc: true
 ---
 Hey there! My name is Joana Matilde Neto, and I'm a passionate software developer with a love for creating innovative solutions. With a background in computer science, I finished my bachelor's in 2024. Throughout the years I have specialized in web development, mobile applications and even games.
 
