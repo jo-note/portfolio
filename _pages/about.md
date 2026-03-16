@@ -1,5 +1,6 @@
 ---
 title : About Me
+layout: single
 permalink: /about/
 layouts_gallery:
     -url: /assets/images/test_image.jpg
