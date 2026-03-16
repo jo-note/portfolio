@@ -7,6 +7,14 @@ layouts_gallery:
     -alt: "Author's picture"
 toc: true
 ---
-Hey there! My name is Joana Matilde Neto, and I'm a passionate software developer with a love for creating innovative solutions. With a background in computer science, I finished my bachelor's in 2024. Throughout the years I have specialized in web development, mobile applications and even games.
+Hi there! I’m Joana Matilde Neto, a software developer who enjoys turning ideas into interactive experiences.
 
-When I'm not on my pc, you can find me at the gym, in a park drawing some doodles, or reading fictional books (very open for book suggestions of any kind though, I love to explore). I'm always eager to learn and grow, both personally and professionally.
+I completed my bachelor’s degree in Computer Science in 2024, and over the years I’ve developed a strong interest in building applications that people can actually see and interact with. My main tools are Java and C#, though I also have experience with C and Python. I’m especially drawn to UI development, application design, and game development, where creativity and technical problem-solving meet.
+
+Game development is the direction I’m most excited about for the future. I love the challenge of crafting systems and interfaces that feel intuitive, responsive, and engaging. At the same time, I’m always trying to expand my skill set. Recently I’ve been focusing on improving my understanding of backend architecture and exploring the world of AI, areas that push me outside my usual comfort zone and help me grow as a software engineer.
+
+Outside of programming, you’ll usually find me at the gym, sketching in a park, or reading fiction (I'm very open to book recommendations if anything). I also have a soft spot for games that blend strong storytelling with great design. Some of my favorites include The Witcher 3, Persona 5, and an indie game called Dome Keeper. When I’m not playing them, there’s a good chance I’m solving nonograms, a puzzle hobby that has turned into my daily ritual.
+
+One small but important detail: I run on tea… usually with a bit more sugar than I’d like to admit (a habit I’m working on).
+
+I’m always eager to learn, experiment, and build things that challenge me creatively and technically. If you're interested contact me in any of my social media!
