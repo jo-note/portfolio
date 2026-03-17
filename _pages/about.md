@@ -1,6 +1,5 @@
 ---
 title : About Me
-layout: single
 classes:
   - landing
 permalink: /about/
