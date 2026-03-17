@@ -331,3 +331,7 @@ defaults:
       type: pages
     values:
       layout: single
+      read_time: true
+      share: true
+      related: true
+      author_profile: true
