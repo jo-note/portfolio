@@ -1,6 +1,5 @@
 ---
 title: Education
-layout: single
 permalink: /education/
 toc: true
 ---

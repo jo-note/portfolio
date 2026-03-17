@@ -1,7 +1,5 @@
 ---
 title : About Me
-classes:
-  - landing
 permalink: /about/
 layouts_gallery:
     -url: /assets/images/test_image.jpg
