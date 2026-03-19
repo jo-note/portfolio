@@ -2,11 +2,14 @@
 title : Projects
 permalink: /projects/
 toc: true
-gallery: 
-    url: jo-note/portfolio/assets/images/virtualpet_lynx.jpeg
-    image-path: jo-note/portfolio/assets/images/virtualpet_lynx.jpeg
+project_gallery: 
+    url: /assets/images/virtualpet_lynx.jpeg
+    image-path: /assets/images/virtualpet_lynx.jpeg
     alt: "Virtual Pet main screen"
-    title: "Virtual Pet main screen with the lyx as the mascot."
+    title: "Virtual Pet main screen with the lynx as the mascot."
 ---
+ Some text to text this out
 
-{% include gallery caption="Pictures of the game Virtual Pet" %}
+{% include gallery id="project_gallery" caption="Pictures of the game Virtual Pet" %}
+
+Hello more text.

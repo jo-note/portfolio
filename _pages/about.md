@@ -5,6 +5,7 @@ layouts_gallery:
     -url: /assets/images/test_image.jpg
     -image_path: /assets/images/test_image.jpg
     -alt: "Author's picture"
+last_modified_at:  2026-03-19T11:59:26-04:00
 toc: true
 ---
 Hi there! I’m Joana Matilde Neto, a software developer who enjoys turning ideas into interactive experiences.
