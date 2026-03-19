@@ -4,9 +4,8 @@ permalink: /projects/
 toc: true
 project_gallery: 
     url: /assets/images/virtualpet_lynx.jpeg
-    image-path: /assets/images/virtualpet_lynx.jpeg
+    image-path: /assets/images/virtualpet_lynx.png
     alt: "Virtual Pet main screen"
-    title: "Virtual Pet main screen with the lynx as the mascot."
 ---
  Some text to text this out
 
