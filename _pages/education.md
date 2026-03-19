@@ -10,11 +10,12 @@ From the first semester, I recognized that this was the right choice. The logica
 After a long battle, I successfully completed my degree in October 2024 in Instituto Superior de Engenharia do Porto (ISEP). My final internship project was evaluated with a grade of 95% (19/20), reflecting the effort and dedication invested throughout the program.
 
 ## Internship Experience
+
 As part of my final year, I participated in a group internship project focused on the development of a mobile tourism application incorporating a group recommendation system and gamification elements.
 
-Within this project, I helped with the development of a virtual pet game designed to enhance user engagement. This experience marked my first contact with both Blender and Unity, requiring me to quickly adapt and acquire new technical skills. I worked on 3D modeling, rigging, and animation for one of the application’s mascots, a process that involved extensive self-learning and iterative improvement for weeks.
+Within this project, I helped with the development of a virtual pet game designed to enhance user engagement. This experience marked my first contact with both Blender and Unity, requiring me to quickly adapt and acquire new skills. I worked on 3D modeling, rigging, and animation for one of the application’s mascots, a process that involved extensive self-learning and iterative improvement for weeks.
 
-In Unity, I was involved in both interface development and application logic, applying my knowledge of C# to structure systems and implement interactive features, including animation triggers for various user scenarios.
+In Unity, I was involved in both interface development and application logic, applying what I know of C# to structure systems and implement interactive features, including animation triggers for various user scenarios.
 
 The project was developed in a team of four members, where tasks were distributed acccordingly. Despite all members being relatively new to the technologies that were used, we successfully delivered a functional mobile game within five months. The final product received positive feedback from external users, demonstrating the effectiveness of both our technical implementation and teamwork.
 
@@ -28,7 +29,7 @@ In 2023, I participated in an Erasmus short-term program at the Xamk Summer Scho
 
 Beyond the technical knowledge, this experience was particularly meaningful on a personal level. It allowed me to connect with like-minded individuals from different backgrounds, forming friendships and professional connections that continue beyond the program. As part of the final project, my group presented a game concept which was awarded 3rd place in a closing competition, an outcome that was both unexpected and deeply rewarding.
 
-### Game Jams
+## Game Jams
 
 I have also taken part in game jams, which have been some of the most intense and rewarding creative experiences in my journey so far.
 

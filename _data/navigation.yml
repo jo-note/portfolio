@@ -11,11 +11,11 @@ main:
   - title: "Projects"
     url: /projects/
 
+  - title: "Articles"
+    url: /articles/
+
   - title: "Sample Posts"
     url: /year-archive/ 
-
-  - title: "Written Articles"
-    url: /articles/
 
   # - title: "Sitemap"
   #   url: /sitemap/

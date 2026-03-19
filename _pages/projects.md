@@ -4,10 +4,10 @@ permalink: /projects/
 toc: true
 project_gallery: 
   - url: /assets/images/virtualpet_lynx.png
-    image_path: "{{ site.baseurl }}/assets/images/virtualpet_lynx.png"
-    alt: "Virtual Pet main screen"
-  - url: /assets/images/virtualpet_lynx.png
     image_path: /assets/images/virtualpet_lynx.png
+    alt: "Virtual Pet main screen"
+  - url: assets/images/animais.png
+    image_path: assets/images/animais.png
     alt: "Virtual Pet main screen"
 
 ---
