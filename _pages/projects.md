@@ -7,7 +7,7 @@ project_gallery:
     image_path: "{{ site.baseurl }}/assets/images/virtualpet_lynx.png"
     alt: "Virtual Pet main screen"
   - url: /assets/images/virtualpet_lynx.png
-    image_path: /portfolio/assets/images/virtualpet_lynx.png
+    image_path: /assets/images/virtualpet_lynx.png
     alt: "Virtual Pet main screen"
 
 ---
