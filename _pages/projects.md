@@ -3,8 +3,8 @@ title : Projects
 permalink: /projects/
 toc: true
 project_gallery: 
-    url: /assets/images/virtualpet_lynx.png
-    image-path: /assets/images/virtualpet_lynx.png
+    -url: /assets/images/virtualpet_lynx.png
+    image_path: /assets/images/virtualpet_lynx.png
     alt: "Virtual Pet main screen"
 ---
  Some text to text this out
