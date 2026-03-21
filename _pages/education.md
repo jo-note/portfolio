@@ -44,3 +44,15 @@ None of us had prior experience with this tool, which made the process both dema
 Once again, I took responsibility for the visual and audio aspects of the game, which required me to quickly learn pixel art from scratch. Despite the technical limitations and the pressure of a short development window, our team adapted, experimented, and delivered a complete experience.
 
 Against the odds, and after moments where finishing on time felt uncertain, the project was awarded 1st place. This result was especially meaningful, as it reflected not only the final product but also the creativity, persistence, and teamwork that went into overcoming the challenges we faced.
+
+## Research Scholarship
+
+After the completion of my degree, I applied for and was awarded a research scholarship at the Research Group on Intelligent Engineering and Computing for Advanced Innovation and Development (GECAD), where I had previously completed my internship. This opportunity allowed me to further develop my technical and research skills within a collaborative and innovation-driven environment.
+
+From November 2024 to November 2025, I contributed as a full-stack developer to the continued development of the main application designed to integrate the gamification features created before and during my internship. My work focused on extending and refining the platform, ensuring the seamless incorporation of the Unity-based game into an Android application and create contextual notifications.
+
+This experience required me to expand my knowledge across multiple domains. I worked on embedding a Unity application within a native Android environment, designing and managing databases, and contributing to a microservices-based backend. I was also involved in re-building the Android application from the ground up and participated in the preparation of scientific documentation and articles.
+
+Working in a research context shortly after graduating presented a natural learning curve, particularly in balancing development cycles with long-term project planning. Over time, I strengthened my ability to manage responsibilities effectively while maintaining attention to detail and quality.
+
+The project was developed collaboratively within a multidisciplinary team, ultimately resulting in a fully functional application. Throughout this period, I worked with technologies including C#, Java, XML, and SQL, further consolidating my skills across both software development and applied research environments.
