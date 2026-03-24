@@ -126,4 +126,4 @@ Since I already described pretty much all of the games that I made during Game J
 
 ### Rebirth
 
-{% include gallery id="rj_gallery" caption="Pictures from the second Game Jam I participated. You can play the game here: [text](https://pinho13.itch.io/rebirth)" %}
+{% include gallery id="rj_gallery" caption="Pictures from the second Game Jam I participated. You can play the game here: [Rebirth](https://pinho13.itch.io/rebirth)" %}
