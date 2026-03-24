@@ -40,8 +40,8 @@ se_gallery:
   - url: assets/images/shiftingeyesmascot.png
     image_path: assets/images/shiftingeyesmascot.png
     alt: "    "
-  - url: assets/images/semoredetail.jpeg
-    image_path: assets/images/semoredetail.jpeg
+  - url: assets/images/semoredetail.png
+    image_path: assets/images/semoredetail.png
     alt: "    "
   - url: assets/images/se1.jpeg
     image_path: assets/images/se1.jpeg
@@ -66,8 +66,8 @@ rj_gallery:
   - url: assets/images/rj2.png
     image_path: assets/images/rj2.png
     alt: "    "
-  - url: assets/images/rj3.png
-    image_path: assets/images/rj3.png
+  - url: assets/images/rj3.jpg
+    image_path: assets/images/rj3.jpg
     alt: "    "
 ---
  In this page I present some of my most recent and important projects to me. These include projects that I worked on while on my internship, my scholarship and also the Game Jams that I participated on.
@@ -114,4 +114,4 @@ Since I already described pretty much all of the games that I made during Game J
 
 ### Rebirth
 
-{% include gallery id="rj_gallery" caption="Pictures from the second Game Jam I participated." %}
+{% include gallery id="rj_gallery" caption="Pictures from the second Game Jam I participated. You can play the game here: [text](https://pinho13.itch.io/rebirth)" %}
