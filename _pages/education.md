@@ -39,7 +39,7 @@ During this project, I was primarily responsible for 3D art and sound design, wh
 
 In 2025, I participated in a second game jam, RetroJam, this time in a team of four. The theme was Rebirth, and we challenged/tortured ourselves by developing the game using PICO-8, a fantasy console designed to emulate the constraints of retro systems, including limited resolution, color palette, and memory.
 
-None of us had prior experience with this tool, which made the process both demanding and exciting. The game we developed was a 2D pixel-art platformer centered around a ghost that could temporarily possess corpses to progress through levels, effectively “rebirthing” as part of its core mechanic.
+None of us had prior experience with this tool, which made the process both demanding and exciting. The game we developed was a 2D pixel-art platformer called... "Rebirth" (we didn't have time to think about a better game title), centered around a ghost that could temporarily possess corpses to progress through levels, effectively “rebirthing” as part of its core mechanic.
 
 Once again, I took responsibility for the visual and audio aspects of the game, which required me to quickly learn pixel art from scratch. Despite the technical limitations and the pressure of a short development window, our team adapted, experimented, and delivered a complete experience.
 

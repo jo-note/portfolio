@@ -36,7 +36,33 @@ grouplanner_gallery:
     image_path: assets/images/trophy_notif.jpeg
     alt: "    "
   
+se_gallery:
+  - url: assets/images/se1.jpeg
+    image_path: assets/images/se1.jpeg
+    alt: "    "
+  - url: assets/images/se2.jpeg
+    image_path: assets/images/se2.jpeg
+    alt: "    "
+  - url: assets/images/se3.jpeg
+    image_path: assets/images/se3.jpeg
+    alt: "    "
+  - url: assets/images/se4.jpeg
+    image_path: assets/images/se4.jpeg
+    alt: "    "
+  - url: assets/images/se6.jpeg
+    image_path: assets/images/se6.jpeg
+    alt: "    "
 
+rj_gallery:
+  - url: assets/images/rj1.jpeg
+    image_path: assets/images/rj1.jpeg
+    alt: "    "
+  - url: assets/images/rj2.jpeg
+    image_path: assets/images/rj2.jpeg
+    alt: "    "
+  - url: assets/images/rj3.jpeg
+    image_path: assets/images/rj3.jpeg
+    alt: "    "
 ---
  In this page I present some of my most recent and important projects to me. These include projects that I worked on while on my internship, my scholarship and also the Game Jams that I participated on.
 
@@ -72,6 +98,14 @@ The project was developed by a team of five, working under an agile methodology 
 
 As my first full-scale experience as a software engineer, this project was both challenging and extremely rewarding after the results.
 
-# Game Jams
+## Game Jams
 
 Since I already described pretty much all of the games that I made during Game Jams, I'll just show a few pictures from the games. Hope you enjoy them!
+
+### Shifting Eyes
+
+{% include gallery id="se_gallery" caption="Pictures from the first Game Jam I participated." %}
+
+### Rebirth
+
+{% include gallery id="rj_gallery" caption="Pictures from the second Game Jam I participated." %}
