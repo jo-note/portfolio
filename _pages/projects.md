@@ -37,6 +37,12 @@ grouplanner_gallery:
     alt: "    "
   
 se_gallery:
+  - url: assets/images/shiftingeyesmascot.png
+    image_path: assets/images/shiftingeyesmascot.png
+    alt: "    "
+  - url: assets/images/semoredetail.jpeg
+    image_path: assets/images/semoredetail.jpeg
+    alt: "    "
   - url: assets/images/se1.jpeg
     image_path: assets/images/se1.jpeg
     alt: "    "
@@ -54,14 +60,14 @@ se_gallery:
     alt: "    "
 
 rj_gallery:
-  - url: assets/images/rj1.jpeg
-    image_path: assets/images/rj1.jpeg
+  - url: assets/images/rj1.png
+    image_path: assets/images/rj1.png
     alt: "    "
-  - url: assets/images/rj2.jpeg
-    image_path: assets/images/rj2.jpeg
+  - url: assets/images/rj2.png
+    image_path: assets/images/rj2.png
     alt: "    "
-  - url: assets/images/rj3.jpeg
-    image_path: assets/images/rj3.jpeg
+  - url: assets/images/rj3.png
+    image_path: assets/images/rj3.png
     alt: "    "
 ---
  In this page I present some of my most recent and important projects to me. These include projects that I worked on while on my internship, my scholarship and also the Game Jams that I participated on.
@@ -82,7 +88,7 @@ Moving into Unity, I worked on designing the UI and implementing the logic behin
 
 ## Grouplanner
 
-{% include gallery id="grouplanner_gallery" caption="Pictures of the Grouplanner app. All of these pictures were permited to be shown. " %}
+{% include gallery id="grouplanner_gallery" caption="Pictures of the Grouplanner app. All pictures displayed here are used with permission." %}
 
 From November 2024 to November 2025, I worked as a full-stack developer on Grouplanner, a group recommendation mobile application for tourism. The app is designed to generate personalized travel suggestions based on users’ personality, which is determined through a quiz.
 
