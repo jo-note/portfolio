@@ -15,7 +15,7 @@ virtualpet_gallery:
   - url: assets/images/lynx_animations.png
     image_path: assets/images/lynx_animations.png
     alt: "   "
-  - url: assets/images/lynx_smiling.PMG
+  - url: assets/images/lynx_smiling.PNG
     image_path: assets/images/lynx_smiling.PNG
     alt: "   "
   - url: assets/images/glitchy_leo.png
@@ -56,6 +56,8 @@ Moving into Unity, I worked on designing the UI and implementing the logic behin
 
 ## Grouplanner
 
+{% include gallery id="grouplanner_gallery" caption="Pictures of the Grouplanner app. All of these pictures were permited to be shown. " %}
+
 From November 2024 to November 2025, I worked as a full-stack developer on Grouplanner, a group recommendation mobile application for tourism. The app is designed to generate personalized travel suggestions based on users’ personality, which is determined through a quiz.
 
 Grouplanner allows users to plan trips either individually or in groups. When planning as a group, the system analyzes each member’s personality and generates recommendations that either suit the group as a whole or intelligently divides users into subgroups with similar preferences. In addition, the app integrates contextual notifications, providing users with real-time information about nearby points of interest, as well as environmental factors like the weather, air quality, and noise levels.
@@ -68,4 +70,8 @@ I also contributed to both frontend and backend development. On the frontend sid
 
 The project was developed by a team of five, working under an agile methodology with weekly meetings, task distribution, and continuous iteration. This environment allowed me to gain hands-on experience in collaborative software development, while also strengthening my ability to manage responsibilities within a structured workflow.
 
-As my first full-scale experience as a software engineer, this project was both challenging and extremely rewarding, and it remains one of the works I am most proud of.
+As my first full-scale experience as a software engineer, this project was both challenging and extremely rewarding after the results.
+
+# Game Jams
+
+Since I already described pretty much all of the games that I made during Game Jams, I'll just show a few pictures from the games. Hope you enjoy them!
