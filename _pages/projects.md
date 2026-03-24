@@ -58,6 +58,9 @@ se_gallery:
   - url: assets/images/se6.jpeg
     image_path: assets/images/se6.jpeg
     alt: "    "
+  - url: assets/images/sescary.gif
+    image_path: assets/images/sescary.gif
+    alt: "    "
 
 rj_gallery:
   - url: assets/images/rj1.png
@@ -69,14 +72,14 @@ rj_gallery:
   - url: assets/images/rj3.jpg
     image_path: assets/images/rj3.jpg
     alt: "    "
-  - url: assets/images/rj5.jpg
-    image_path: assets/images/rj5.jpg
+  - url: assets/images/rj5.JPG
+    image_path: assets/images/rj5.JPG
     alt: "    "
-  - url: assets/images/rj8.jpg
-    image_path: assets/images/rj8.jpg
+  - url: assets/images/rj8.JPG
+    image_path: assets/images/rj8.JPG
     alt: "    "
-  - url: assets/images/rj9.jpg
-    image_path: assets/images/rj9.jpg
+  - url: assets/images/rj9.JPG
+    image_path: assets/images/rj9.JPG
     alt: "    "
 ---
  In this page I present some of my most recent and important projects to me. These include projects that I worked on while on my internship, my scholarship and also the Game Jams that I participated on.
