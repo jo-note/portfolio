@@ -9,13 +9,13 @@ During my research scholarship at GECAD, I had the opportunity to contribute to 
 ## Travel Together, Play Together: Gamifying a Group Recommender System for Tourism
 
 <figure>
-    <img src="/assets/images/articletraveltogether.png">
+    <img src="assets/images/articletraveltogether.png">
 </figure>
 [Read it here!](https://dl.acm.org/doi/10.1145/3705328.3759344)
 
 ## Mindful Escape: a Mobile Serious Game to Predict the PersonalityTrait Cooperation
 
 <figure>
-    <img src="/assets/images/articletmindfulescape.png">
+    <img src="assets/images/articletmindfulescape.png">
 </figure>
 [Read it here!](https://dl.acm.org/doi/10.1145/3705328.3759344)
