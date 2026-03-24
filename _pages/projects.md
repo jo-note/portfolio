@@ -69,6 +69,15 @@ rj_gallery:
   - url: assets/images/rj3.jpg
     image_path: assets/images/rj3.jpg
     alt: "    "
+  - url: assets/images/rj5.jpg
+    image_path: assets/images/rj5.jpg
+    alt: "    "
+  - url: assets/images/rj8.jpg
+    image_path: assets/images/rj8.jpg
+    alt: "    "
+  - url: assets/images/rj9.jpg
+    image_path: assets/images/rj9.jpg
+    alt: "    "
 ---
  In this page I present some of my most recent and important projects to me. These include projects that I worked on while on my internship, my scholarship and also the Game Jams that I participated on.
 
