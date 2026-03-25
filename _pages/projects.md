@@ -32,8 +32,8 @@ grouplanner_gallery:
   - url: assets/images/nearbypoiproof.jpeg
     image_path: assets/images/nearbypoiproof.jpeg
     alt: "    "
-  - url: assets/images/trophy_notif.jpeg
-    image_path: assets/images/trophy_notif.jpeg
+  - url: assets/images/trophy_notif.png
+    image_path: assets/images/trophy_notif.png
     alt: "    "
   
 se_gallery:
