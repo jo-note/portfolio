@@ -115,7 +115,7 @@ As my first full-scale experience as a software engineer, this project was both 
 
 ## Game Jams
 
-Since I already described pretty much all of the games that I made during Game Jams [here](https://jo-note.github.io/portfolio/education/#game-jams), I'll just show a few pictures from the games and of the production. Hope you enjoy them!
+Since I already described pretty much all of the games that I made during Game Jams [here](https://jo-note.github.io/portfolio/education/#game-jams), I'll just show a few pictures from the games and of the production . Hope you enjoy them!
 
 ### Shifting Eyes
 
