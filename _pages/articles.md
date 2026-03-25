@@ -14,6 +14,6 @@ During my research scholarship at GECAD, I had the opportunity to contribute to 
 
 ## Mindful Escape: a Mobile Serious Game to Predict the PersonalityTrait Cooperation
 
-![Main page of the article]({{ site.url }}{{ site.baseurl }}/assets/images/articletmindfulescape.png)
+![Main page of the article]({{ site.url }}{{ site.baseurl }}/assets/images/articlemindfulescape.png)
 
 [Read it here!](https://dl.acm.org/doi/10.1145/3705328.3759344)
