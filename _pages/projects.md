@@ -3,30 +3,30 @@ title : Projects
 permalink: /projects/
 toc: true
 virtualpet_gallery: 
-  - url: /assets/images/virtualpet_lynx.png
-    image_path: /assets/images/virtualpet_lynx.png
-    alt: "Virtual Pet main screen"
   - url: assets/images/lynx1.png
     image_path: assets/images/lynx1.png
     alt: "Lynx's skeleton on Blender"
   - url: assets/images/lynx2.png
     image_path: assets/images/lynx2.png
     alt: "Rigging process of the lynx"
-  - url: assets/images/lynx_animations.png
-    image_path: assets/images/lynx_animations.png
-    alt: "   "
   - url: assets/images/lynx_smiling.PNG
     image_path: assets/images/lynx_smiling.PNG
+    alt: "Lynx mascot smiling"
+  - url: assets/images/lynx_animations.png
+    image_path: assets/images/lynx_animations.png
     alt: "   "
   - url: assets/images/glitchy_leo.png
     image_path: assets/images/glitchy_leo.png
     alt: "Goofy picture of the lynx"
-  - url: assets/images/animais.png
-    image_path: assets/images/animais.png
-    alt: "A picture of the mascots: pig, panda and lynx"
+  - url: /assets/images/virtualpet_lynx.png
+    image_path: /assets/images/virtualpet_lynx.png
+    alt: "Virtual Pet main screen"
   - url: assets/images/panda_dinorush.jpeg
     image_path: assets/images/panda_dinorush.jpeg
     alt: "Goofy picture of the lynx"
+  - url: assets/images/animais.png
+    image_path: assets/images/animais.png
+    alt: "A picture of the mascots: pig, panda and lynx"
 
 grouplanner_gallery:
   - url: assets/images/nearbypoiproof.jpeg
@@ -54,9 +54,6 @@ se_gallery:
     alt: "    "
   - url: assets/images/se4.jpeg
     image_path: assets/images/se4.jpeg
-    alt: "    "
-  - url: assets/images/se6.jpeg
-    image_path: assets/images/se6.jpeg
     alt: "    "
   - url: assets/images/sescary.gif
     image_path: assets/images/sescary.gif
@@ -118,7 +115,7 @@ As my first full-scale experience as a software engineer, this project was both 
 
 ## Game Jams
 
-Since I already described pretty much all of the games that I made during Game Jams, I'll just show a few pictures from the games. Hope you enjoy them!
+Since I already described pretty much all of the games that I made during Game Jams [here](https://jo-note.github.io/portfolio/education/#game-jams), I'll just show a few pictures from the games and of the production. Hope you enjoy them!
 
 ### Shifting Eyes
 

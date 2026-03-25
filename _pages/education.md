@@ -35,7 +35,7 @@ I have also taken part in game jams, which have been some of the most intense an
 
 My first game jam took place in 2024, where I worked in a team of three to develop a game within approximately three days. The theme was Perception Shifting, which led us to design a 3D puzzle game titled “Shifting Eyes.” The game follows a young girl capable of entering and controlling other people’s minds, experiencing the world through their perspective in order to escape captivity.
 
-During this project, I was primarily responsible for 3D art and sound design, while also contributing to some aspects of programming. As a team, we collaborated on level design and overall game structure. The project was awarded 3rd place, making it a strong first experience in a highly time-constrained environment.
+During this project, I was primarily responsible for 3D art and sound design, while also contributing to some aspects of programming. As a team, we collaborated on level design and overall game structure. The project was awarded 3rd place, making it a strong first experience in a highly time-constrained environment. Check some of the pictures [here](https://jo-note.github.io/portfolio/projects/#shifting-eyes)!
 
 In 2025, I participated in a second game jam, RetroJam, this time in a team of four. The theme was Rebirth, and we challenged/tortured ourselves by developing the game using PICO-8, a fantasy console designed to emulate the constraints of retro systems, including limited resolution, color palette, and memory.
 
@@ -43,7 +43,7 @@ None of us had prior experience with this tool, which made the process both dema
 
 Once again, I took responsibility for the visual and audio aspects of the game, which required me to quickly learn pixel art from scratch. Despite the technical limitations and the pressure of a short development window, our team adapted, experimented, and delivered a complete experience.
 
-Against the odds, and after moments where finishing on time felt uncertain, the project was awarded 1st place. This result was especially meaningful, as it reflected not only the final product but also the creativity, persistence, and teamwork that went into overcoming the challenges we faced.
+Against the odds, and after moments where finishing on time felt uncertain, the project was awarded 1st place. This result was especially meaningful, as it reflected not only the final product but also the creativity, persistence, and teamwork that went into overcoming the challenges we faced. Check how it turned out, plus some other pictures [here](https://jo-note.github.io/portfolio/projects/#rebirth)!
 
 ## Research Scholarship
 
